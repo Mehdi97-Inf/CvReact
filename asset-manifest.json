@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CvReact/static/css/main.b557dbd5.css",
+    "main.js": "/CvReact/static/js/main.85e3f712.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CvReact/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Boiss.jpg": "/CvReact/static/media/Boiss.69157b1268449584a30e.jpg",
+    "index.html": "/CvReact/index.html",
+    "main.b557dbd5.css.map": "/CvReact/static/css/main.b557dbd5.css.map",
+    "main.85e3f712.js.map": "/CvReact/static/js/main.85e3f712.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CvReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b557dbd5.css",
+    "static/js/main.85e3f712.js"
+  ]
+}
